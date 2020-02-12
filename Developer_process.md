@@ -8,7 +8,7 @@ At first we will be easy with this but people, please catch the (git)flow ASAP.
 
 ## Issues!
 
-Its all about issues, every change must have a reference issue in which the dev team can debate about, and branches that name the user and issue it's working on.
+It's all about issues, every change must have a reference issue in which the dev team can debate about, and branches that name the user and issue it's working on.
 
 So if you need to do a change, fix something or add a new feature, please open an issue or feature for it. Once you have a issue number to work with, create a branch from latest `develop` in YOUR own fork and name it `user_t#_short_description_of_issue` see [here](https://github.com/stdevPavelmc/MystiQ/tree/stdevPavelmc_t8_travis_integration) where I created a branch named `stdevPavelmc_t8_travis_integration`
 
